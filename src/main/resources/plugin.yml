@@ -1,0 +1,5 @@
+name: Wolfo
+description: Werewolf plugin
+version: '1.0'
+api-version: '1.15'
+main: fr.romitou.wolfo.Wolfo
